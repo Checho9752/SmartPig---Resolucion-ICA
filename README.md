@@ -1,6 +1,6 @@
-#SmartPIG
+# SmartPIG
 
-_**Sistema de información para la reglamentación en producción primaria de ganado porcino (Resolución ICA)**_
+_** Sistema de información para la reglamentación en producción primaria de ganado porcino (Resolución ICA) **_
 
 ![ICA-LOGO](https://user-images.githubusercontent.com/50468549/57561359-d9ca4300-7350-11e9-88ac-eed95f94d486.jpg)
 
