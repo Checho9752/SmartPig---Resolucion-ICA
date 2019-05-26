@@ -38,3 +38,10 @@ Con el fin de aportar a la contruccion de granjas inteligentes, nos unimos a est
 
 #### Definición de la propuesta
 Se realizará un sistema de información para digitalizar todos los formatos solicitados por el ICA en su resolución, a la hora de realizar la inspección por dicha organización a la granja para así certificar que los procesos sanitarios y de alimentación son realizados correctamente.
+
+### Observaciones Entregable Uno.
+- Más orden al momento de presentar la idea.
+- Dominio del tiempo, aunque son dos módulos es ideal saber separar la presentación del proyecto.
+- Respecto al tablero, recuerden que debíamos tener las actividades correspondientes a realizar en los aspectos de FrontEnd
+
+#### Nota: 3,9
